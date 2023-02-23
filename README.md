@@ -4,7 +4,9 @@ A multi-purpose tracking system with modular design. Users can add customized mo
 
 ![Optional Text](example.jpg)
 
-
+# Techology used
+- Python
+- AWS
 
 <h2>Prerequisite</h2>
 <ol>
