@@ -1,8 +1,8 @@
-<h2>Use</h2>
+# About the Project
 A multi-purpose tracking system with modular design. Users can add customized modules for different purposes. For example, tracking gold price, stock price, online deals and etc. Users can also configure the frequency of the sms notifications.
 
 
-![Optional Text](../master/example.jpg)
+![Optional Text](example.jpg)
 
 
 
